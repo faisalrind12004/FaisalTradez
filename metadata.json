@@ -1,0 +1,6 @@
+{
+  "name": "Rozgar Poultry & Farm Invest",
+  "description": "Modern poultry and farm investment platform with daily egg yield rewards, transparent plans, and direct Pakistani payment verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
